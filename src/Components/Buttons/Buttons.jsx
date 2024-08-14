@@ -1,5 +1,7 @@
 import React from 'react';
-import Button from '../Utails/Button'
+
+import Button from '../Utils/Button';
+
 
 function Buttons() {
   return (
