@@ -121,7 +121,7 @@ function Allpages() {
           </div>
         </div>
 
-        <Button variant="third"  /> 
+        <Button variant="primary"  /> 
       </div>
 
 
