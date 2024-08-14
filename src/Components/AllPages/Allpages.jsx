@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../Utails/Button'; 
+
 
 function Allpages() {
   return (
@@ -120,8 +120,16 @@ function Allpages() {
             </div>
           </div>
         </div>
+        <hr className="border-t-2 border-gray-300 mb-4 mx-auto " />
 
-        <Button variant="primary"  /> 
+        <button
+      type="button"
+      className="inline-flex mb-1 items-center rounded-md w-full justify-center  bg-[#FFCE22] px-3 py-2 text-sm font-semibold text-black hover:bg-[#FFD84D]/80"
+    >
+     Done
+     
+    </button>
+      
       </div>
 
 
