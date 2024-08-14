@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '../Utails/Button'; 
+import Button from '../Utails/Button'
 
 function Buttons() {
   return (
@@ -7,6 +7,7 @@ function Buttons() {
       <Button variant="primary"  /> 
       <Button variant="secondary"  /> 
       <Button variant="third"  /> 
+     
     </div>
   );
 }
