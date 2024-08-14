@@ -1,6 +1,7 @@
 import React from 'react';
 
-import Button from '../Utils/Button';
+
+import Button from './../Utails/Button';
 
 
 function Buttons() {
